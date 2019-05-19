@@ -1,3 +1,9 @@
+# Timeline
+
+Total number of days - 21
+
+Projects to work on - [YourCFP](https://github.com/tapaswenipathak/YourCFP),[OSDSResearchTillNow](https://github.com/tapaswenipathak/OSDSResearchTillNow),[IHeartGenomics]( https://github.com/tapaswenipathak/IHeartGenomics)
+
 Title | Dates 
 --- | --- | 
 Base CFP Django App<br> | May 19 
