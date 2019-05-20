@@ -24,7 +24,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anuragsarkar Timeline]()
 [@rmorer96 Timeline]()
-[@prondubuisi Timelinw()]
+[@prondubuisi Timeline]()
 [@sakshivij Timeline]()
 [@sujaykumarreddy Timeline]()
 
@@ -36,6 +36,6 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@anuragsarkar Calendar]()
 [@rmorer96 Calendar]()
-[@prondubuisi Calendar()]
+[@prondubuisi Calendar]()
 [@sakshivij Calendar]()
 [@sujaykumarreddy Calendar]()
