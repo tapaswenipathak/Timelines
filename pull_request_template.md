@@ -4,8 +4,8 @@ In my one month internship I will be completing following tasks
 
 
 | Day Number  |  Planned Work | Deliverable | Ticket | Intern Type |
-|---|---|---|---|
-|   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
 
 
 Intern type
