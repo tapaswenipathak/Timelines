@@ -16,7 +16,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 # Timelines
 
-[@sakshivij Timeline](https://github.com/sakshivij/Timelines)
+[@sakshivij Timeline](https://github.com/tapaswenipathak/Timelines/blob/master/timeline-sakshivij.md)
 [@anuragsarkar Timeline]()
 
 [@tapaswenipathak Timeline]()
